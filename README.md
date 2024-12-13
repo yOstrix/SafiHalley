@@ -1,3 +1,1 @@
-# SafiHalley
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/yOstrix/SafiHalley)
+# Um site que é um contador de tempo de namoro
